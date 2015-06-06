@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
        echo 'hello world';
        echo 'these changes are commited';
+       echo 'ddjdjdd';
         ?>
     </body>
 </html>
